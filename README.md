@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYSIS-OF-CUSTOMER-CHURN-USING-RANDOM-CLASSIFIER
+This research uses a Random Forest Classifier to analyse historical customer data in order to forecast customer turnover in the telecommunications industry. It pinpoints the main causes of churn, assesses the effectiveness of the model, and offers useful information to assist companies in lowering attrition and enhancing client retention.
